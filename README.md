@@ -6,7 +6,7 @@ Fitness App Prototype with features such as tracking calories, free workouts, an
 ## Built With
 - InVision
 
-## Link
+## Link to the Project
 [InVision Link](https://invis.io/Z5VWULSBGAE)
   
 ## Author
